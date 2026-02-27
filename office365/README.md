@@ -5,7 +5,7 @@ If you prefer English language, please run the `convert-to-english.sh` script af
 
 ## How to Install
 
-1. Download the zip from [Mediafire](https://www.mediafire.com/file/qo3lpo0wr3fnu28/MSO365.zip/file) or [Drive](https://drive.google.com/file/d/1M-xee0XswaPINOPwSxYA-FlK-_qdEc9N/view) and move the zip (without extracting) to this directory that contains the scripts.
+1. Download the zip from [Mediafire](https://www.mediafire.com/file/qo3lpo0wr3fnu28/MSO365.zip/file) or [Drive](https://drive.google.com/file/d/1M-xee0XswaPINOPwSxYA-FlK-_qdEc9N/view) and move the zip (without extracting) to `office365` directory.
 2. Open a terminal.
 3.  Navigate to this directory and and give execution access:
     ```bash
